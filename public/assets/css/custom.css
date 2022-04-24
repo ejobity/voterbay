@@ -1,0 +1,9 @@
+/*!
+* Custom Css for Dash Lite
+**/
+/* Change the order of the Wizard buttons */
+.nk-wizard .actions ul li:first-child {
+    order: 0;
+}
+
+
